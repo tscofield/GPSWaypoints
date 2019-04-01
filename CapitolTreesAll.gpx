@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>New Track</name>
+    <desc></desc>
+    <author>
+      <name>WTracks</name>
+    </author>
+    <link href="https://opoto.github.io/wtracks/">
+      <text>WTracks</text>
+      <type>text/html</type>
+    </link>
+    <time>2019-04-01T02:18:13.677Z</time>
+    <bounds minlat="38.88754593108032" minlon="-77.01716780738936" maxlat="38.89232260391433" maxlon="-77.00429320411787" />
+  </metadata>
+  <wpt lat="38.891634" lon="-77.007690">
+    <name>"Senator" Tree of Florida</name>
+    <desc>Taxodium Distichum (Bald Cypress) planted by Senator Lawton Chiles September 13, 1988</desc>
+    <ele>32</ele>
+  </wpt>
+</gpx>
