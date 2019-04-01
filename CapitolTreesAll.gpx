@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>New Track</name>
-    <desc></desc>
+    <name>US Capitol Trees</name>
+    <desc>GPX Waypoints for trees at US Capitol created from data provided by the Architect of the Capitol</desc>
     <author>
-      <name>WTracks</name>
+      <name>Tom Scofield</name>
     </author>
     <link href="https://opoto.github.io/wtracks/">
-      <text>WTracks</text>
+      <text></text>
       <type>text/html</type>
     </link>
     <time>2019-04-01T02:18:13.677Z</time>
@@ -16,13 +16,12 @@
   <wpt lat="38.891634" lon="-77.007690">
     <name>"Senator" Tree of Florida</name>
     <desc>Taxodium Distichum (Bald Cypress) planted by Senator Lawton Chiles September 13, 1988</desc>
-    <ele>32</ele>
+  </wpt>
+  <wpt lat="38.887853" lon="-77.01093">
+    <name>100th Anniversary of Ireland's 1916 Easter Rising Tree</name>
+    <desc>Quercus petraea (Irish Oak – Dair Éireannach); Sponsored by The 1916 Easter Rising Centennial Caucus To Honor the 100th Anniversary of Ireland's 1916 Easter Rising; Planted on May 18, 2016</desc>
   </wpt>
 </gpx>
-
-38° 53' 16.2672" N, 77° 0' 39.348" W
-100th Anniversary of Ireland's 1916 Easter Rising Tree
-Quercus petraea (Irish Oak – Dair Éireannach); Sponsored by The 1916 Easter Rising Centennial Caucus To Honor the 100th Anniversary of Ireland's 1916 Easter Rising; Planted on May 18, 2016
 
 38° 53' 17.9628" N, 77° 0' 23.796" W
 200th Anniversary of Congress in Washington Tree
