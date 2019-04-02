@@ -49,6 +49,30 @@
     <type>Summit Ash</type>
     <desc>Fraxinus pennsylvanica ‘summit’ (Summit Ash); Sponsored by Representative Bob Weygand; In Memory of Rep. Walter Capps; May 21, 1998</desc>
   </wpt>
+  <wpt lat="38.888038" lon="-77.00622">
+    <name>J. Sterling Morton and George Washington Tree</name>
+    <sym>Tree</sym>
+    <type>Eastern Black Walnut</type>
+    <desc>Juglans Nigra (Eastern Black Walnut); To Honor 100th Anniversary of J. Sterling Morton, Founder of Arbor Day; And the Bicentennial of George Washington; April 22, 1932</desc>
+  </wpt>
+  <wpt lat="38.88888" lon="-77.00789">
+    <name>U.S. Capitol Police End of Watch Tree</name>
+    <sym>Tree</sym>
+    <type>Valley Forge American Elm</type>
+    <desc>Ulmus americana 'Valley Forge' (Valley Forge American Elm); To Honor the Service and Sacrifice of Officer Jacob J. Chestnut and Detective John M. Gibson of the U.S. Capitol Police -End of Watch- July 24, 1998; Sponsored by Majority Leader Harry Reid; July 24, 2008</desc>
+  </wpt>
+  <wpt lat="38.888323" lon="-77.00661">
+    <name>200th Anniversary of Congress in Washington Tree</name>
+    <sym>Tree</sym>
+    <type>Marmo Maple</type>
+    <desc>Acer x freemanii ‘marmo’ (Marmo Maple); sponsored by Rep. J. Dennis Hastert To Commemorate the 200th Anniversary of the 1st Meeting of Congress in Washington; November 15, 2000</desc>
+  </wpt>
+  <wpt lat="38.88837" lon="-77.00721">
+    <name>Speaker Joseph Cannon Tree</name>
+    <sym>Tree</sym>
+    <type>Red Oak</type>
+    <desc>Quercus borealis (Red Oak); planted by Speaker Joseph G. Cannon (Ill.); 1913</desc>
+  </wpt>
 </gpx>
 <!--
 <wpt lat="38.891634" lon="-77.007690">
@@ -62,12 +86,6 @@
     <sym>Tree</sym>
     <type>Irish Oak</type>
     <desc>Quercus petraea (Irish Oak – Dair Éireannach); Sponsored by The 1916 Easter Rising Centennial Caucus To Honor the 100th Anniversary of Ireland's 1916 Easter Rising; Planted on May 18, 2016</desc>
-  </wpt>
-  <wpt lat="38.888323" lon="-77.00661">
-    <name>200th Anniversary of Congress in Washington Tree</name>
-    <sym>Tree</sym>
-    <type>Marmo Maple</type>
-    <desc>Acer x freemanii ‘marmo’ (Marmo Maple); sponsored by Rep. J. Dennis Hastert To Commemorate the 200th Anniversary of the 1st Meeting of Congress in Washington; November 15, 2000</desc>
   </wpt>
   <wpt lat="38.888947" lon="-77.01043">
     <name>Anne Frank Memorial Tree</name>
@@ -182,12 +200,6 @@
     <sym>Tree</sym>
     <type>White Pine</type>
     <desc>Pinus strobus (White Pine); planted by Senator James A. McClure Idaho Federation of Women’s Clubs June 10, 1975</desc>
-  </wpt>
-  <wpt lat="38.888038" lon="-77.00622">
-    <name>J. Sterling Morton and George Washington Tree</name>
-    <sym>Tree</sym>
-    <type>Eastern Black Walnut</type>
-    <desc>Juglans Nigra (Eastern Black Walnut); To Honor 100th Anniversary of J. Sterling Morton, Founder of Arbor Day; And the Bicentennial of George Washington; April 22, 1932</desc>
   </wpt>
   <wpt lat="38.890525" lon="-77.00618">
     <name>Liberty Tree</name>
@@ -387,12 +399,6 @@
     <type>Sugar Maple</type>
     <desc>Acer saccharum (Sugar Maple); To Honor Speaker John W. McCormack; June 11, 1964</desc>
   </wpt>
-  <wpt lat="38.88837" lon="-77.00721">
-    <name>Speaker Joseph Cannon Tree</name>
-    <sym>Tree</sym>
-    <type>Red Oak</type>
-    <desc>Quercus borealis (Red Oak); planted by Speaker Joseph G. Cannon (Ill.); 1913</desc>
-  </wpt>
   <wpt lat="38.88909" lon="-77.00664">
     <name>Speaker Joseph Martin Tree</name>
     <sym>Tree</sym>
@@ -457,12 +463,6 @@
     <sym>Tree</sym>
     <type>Toomer;s Corner Oak Scion</type>
     <desc>Quercus Virginiana (Toomer’s Corner Oak Scion); To Commemorate Auburn University’s Toomer’s Corner Oak; sponsored by Rep. Dennis Ross; May 13, 2011</desc>
-  </wpt>
-  <wpt lat="38.88888" lon="-77.00789">
-    <name>U.S. Capitol Police End of Watch Tree</name>
-    <sym>Tree</sym>
-    <type>Valley Forge American Elm</type>
-    <desc>Ulmus americana 'Valley Forge' (Valley Forge American Elm); To Honor the Service and Sacrifice of Officer Jacob J. Chestnut and Detective John M. Gibson of the U.S. Capitol Police -End of Watch- July 24, 1998; Sponsored by Majority Leader Harry Reid; July 24, 2008</desc>
   </wpt>
   <wpt lat="38.88792" lon="-77.00718">
     <name>Vietnam Veterans of Minnesota Tree</name>
