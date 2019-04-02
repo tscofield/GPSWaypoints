@@ -4,9 +4,9 @@
     <name>US Capitol Trees</name>
     <desc>GPX Waypoints for trees at US Capitol created from data provided by the Architect of the Capitol</desc>
     <author>
-      <name>Tom Scofield</name>
+      <name>Architect of the Capitol</name>
     </author>
-    <link href="https://opoto.github.io/wtracks/">
+    <link href="https://www.aoc.gov/trees">
       <text></text>
       <type>text/html</type>
     </link>
