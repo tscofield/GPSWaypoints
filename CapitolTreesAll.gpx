@@ -159,7 +159,8 @@
   </wpt>
   <wpt lat="38.88858" lon="-77.00638">
     <name>Representative Clarence Brown Tree</name>
-    <type>tree</type>
+    <sym>Tree</sym>
+    <type>Red Buckeye</type>
     <desc>Aesculus pavia (Red Buckeye); sponsored by Rep. David L. Hobson; In Honor of Rep. Clarence J. Brown; June 18, 1997</desc>
   </wpt>
   <wpt lat="38.88794" lon="-77.00959">
