@@ -226,6 +226,7 @@
   <wpt lat="38.88791" lon="-77.01056">
     <name>Rep. Andrew Maguire Tree</name>
     <sym>Tree</sym>
+    <type>Pin Oak</type>
     <desc>Quercus palustrus (Pin Oak); To Commemorate the Service to the U.S. House of Representatives of the Honorable Andrew Maguire (1975-1981); Sponsored by Rep. Donald Payne; Planted on July 14, 2006</desc>
   </wpt>
   <wpt lat="38.88858" lon="-77.00638">
@@ -237,171 +238,205 @@
   <wpt lat="38.88794" lon="-77.00959">
     <name>Representative Don Fuqua Tree</name>
     <sym>Tree</sym>
+    <type>Sweetbay Magnolia</type>
     <desc>Magnolia virginiana (Sweetbay Magnolia); Sponsored by Rep. Herbert H. Bateman; To Honor Former Rep. Don Fuqua; September 21, 2000</desc>
   </wpt>
   <wpt lat="38.88774" lon="-77.008">
     <name>Representative Donnald Anderson Tree</name>
     <sym>Tree</sym>
+    <type>American Elm</type>
     <desc>Ulmus americana ‘ded’ (American Elm); sponsored by Rep. Vic Fazio; To Honor Donnald K. Anderson For Service to the House (1960-95); June 16, 1998</desc>
   </wpt>
   <wpt lat="38.88804" lon="-77.01051">
     <name>Representative Jack Murtha Tree</name>
     <sym>Tree</sym>
+    <type>Red Oak</type>
     <desc>Quercus rubra (Red Oak); In Memory of Rep. John 'Jack' Patrick Murtha; sponsored by Rep. Robert Brady; Planted on June 16, 2011</desc>
   </wpt>
   <wpt lat="38.88929" lon="-77.007590">
     <name>Representative James Mann Tree</name>
     <sym>Tree</sym>
+    <type>Red Oak</type>
     <desc>Quercus borealis (Red Oak); planted by Representative James R. Mann (Ill.); May 4, 1912</desc>
   </wpt>
   <wpt lat="38.88847" lon="-77.01102">
     <name>Representative James Slayden Tree</name>
     <sym>Tree</sym>
+    <type>Pecan</type>
     <desc>Carya illoinensis (Pecan); To Honor Rep. James L. Slayden; 1918</desc>
   </wpt>
   <wpt lat="38.88925" lon="-77.00771">
     <name>Representative Joseph Walsh Tree</name>
     <sym>Tree</sym>
+    <type>American Beech</type>
     <desc>Fagus grandiflora (American Beech); planted by Representative Joseph Walsh (Mass.); April 15, 1920</desc>
   </wpt>
   <wpt lat="38.88808" lon="-77.00812">
     <name>Representative Louise Slaughter Tree</name>
     <sym>Tree</sym>
+    <type>English Walnut</type>
     <desc>JUGLANS REGIA (ENGLISH WALNUT); TO HONOR REP. LOUISE M. SLAUGHTER; Sponsored by Rep. James P. McGovern; April 18, 2018</desc>
   </wpt>
   <wpt lat="38.88872" lon="-77.01038">
     <name>Representative Marlin Olmsted Tree</name>
     <sym>Tree</sym>
+    <type>Pin Oak</type>
     <desc>Quercus palustris (Pin Oak); To Honor Representative Marlin E. Olmsted (Pa.); 1913</desc>
   </wpt>
   <wpt lat="38.88807" lon="-77.0079">
     <name>Representative Walter Capps Tree</name>
     <sym>Tree</sym>
+    <type>Summit Ash</type>
     <desc>Fraxinus pennsylvanica ‘summit’ (Summit Ash); Sponsored by Representative Bob Weygand; In Memory of Rep. Walter Capps; May 21, 1998</desc>
   </wpt>
   <wpt lat="38.88883" lon="-77.00643">
     <name>Representative William Colmer Tree</name>
     <sym>Tree</sym>
+    <type>Sothern Magnolia</type>
     <desc>Magnolia grandiflora (Southern Magnolia); In Commemoration of the Honorable William M. Colmer; December 15, 1980</desc>
   </wpt>
   <wpt lat="38.89106" lon="-77.00772">
     <name>Samuel Thomas Barnes IV Memorial Tree</name>
     <sym>Tree</sym>
+    <type>White Oak</type>
     <desc>Ouercus alba (White Oak); In memory of Samuel Thomas Barnes IV; Sponsored by Senator Richard Shelby; Planted on November 25, 1996</desc>
   </wpt>
   <wpt lat="38.8917" lon="-77.00664">
     <name>Senator Byrd's 80th Birthday Tree</name>
     <sym>Tree</sym>
+    <type>White Oak</type>
     <desc>Quercus alba (White Oak); sponsored by Sen. Tom Daschle; To Honor Sen. Robert C. Byrd on His Eightieth Birthday; November 25, 1997</desc>
   </wpt>
   <wpt lat="38.89037" lon="-77.00619">
     <name>Senator Edward Zorinsky Tree</name>
     <sym>Tree</sym>
+    <type>Littleleaf Linden</type>
     <desc>Tilia cordata (Littleleaf Linden); In Memory of Senator Edward Zorinsky (Nebr.); July 14, 1987</desc>
   </wpt>
   <wpt lat="38.89118" lon="-77.00732">
     <name>Senator Everett Dirksen Tree</name>
     <sym>Tree</sym>
+    <type>Pin Oak</type>
     <desc>Quercus palustris (Pin Oak); Dedicated to and Planted by Senator Everett M. Dirksen; State of Illinois; June 4, 1969</desc>
   </wpt>
   <wpt lat="38.89095" lon="-77.00651">
     <name>Senator Frank Lautenberg Tree</name>
     <sym>Tree</sym>
+    <type>Red Oak</type>
     <desc>QUERCUS RUBRA (RED OAK); TO HONOR THE SERVICE OF SENATOR FRANK LAUTENBERG, Sponsored by Sen. Cory A. Booker, May 11, 2017</desc>
   </wpt>
   <wpt lat="38.89144" lon="-77.00689">
     <name>Senator Gallinger, Sr. Tree</name>
     <sym>Tree</sym>
+    <type>Hybrid Oak</type>
     <desc>Quercus heterophylla (Hybrid Oak); planted by Senator Jacob H. Gallinger (N.H.); April 30, 1912</desc>
   </wpt>
   <wpt lat="38.89068" lon="-77.00671">
     <name>Senator J. Robert Kerrey Tree</name>
     <sym>Tree</sym>
+    <type>Liberty Elm</type>
     <desc>Ulmus americana ‘liberty’ (Liberty Elm); planted by NO GREATER LOVE and SEN. JOHN McCAIN; to honor Senator J. Robert Kerrey Medal of Honor Recipient U.S. Navy Seal; April 23, 1999</desc>
   </wpt>
   <wpt lat="38.89119" lon="-77.01105">
     <name>Senator Jack Miller Tree</name>
     <sym>Tree</sym>
+    <type>Black Walnet</type>
     <desc>Juglans nigra (Black Walnut); To Honor Senator Jack Miller; May 3, 1965</desc>
   </wpt>
   <wpt lat="38.89112" lon="-77.00695">
     <name>Senator Saltonstall Tree</name>
     <sym>Tree</sym>
+    <type>Red Maple</type>
     <desc>Acer rubrum (Red Maple); planted by Senator Leverett Saltonstall (Mass.); April 28, 1954</desc>
   </wpt>
   <wpt lat="38.89033" lon="-77.00692">
     <name>Senator Thomas P. Gore Memorial Tree</name>
     <sym>Tree</sym>
+    <type>Chestnut Oak</type>
     <desc>Quercus prinus (Chestnut Oak); In Memory of Senator Thomas P. Gore; April 16, 1949</desc>
   </wpt>
   <wpt lat="38.89039" lon="-77.00714">
     <name>Senator Willard Saulsbury Memorial Tree</name>
     <sym>Tree</sym>
+    <type>White Hickory</type>
     <desc>Hicoria alba (Carya Tomentosa) (White Hickory);  In Memory of Senator Willard Saulsbury of Delaware; April 8, 1918</desc>
   </wpt>
   <wpt lat="38.88793" lon="-77.0103">
     <name>September 11 10th Anniversary Tree</name>
     <sym>Tree</sym>
+    <type>Swamp White Oak</type>
     <desc>Quercus bicolor (Swamp White Oak); To Commemorate the Tenth Anniversary of the September 11, 2001, Terrorist Attacks; sponsored by Rep. Jerrold Nadler; September 13, 2011</desc>
   </wpt>
   <wpt lat="38.8906" lon="-77.00649">
     <name>South Carolina Forestry Association Memorial Tree</name>
     <sym>Tree</sym>
+    <type>Tulip Tree</type>
     <desc>Liriodendron tulipifera (Tulip Tree); planted by Senator Strom Thurmond (S.C.); For South Carolina Forestry Association ; May 26, 1981</desc>
   </wpt>
   <wpt lat="38.88851" lon="-77.0077">
     <name>Speaker John McCormack Tree</name>
     <sym>Tree</sym>
+    <type>Sugar Maple</type>
     <desc>Acer saccharum (Sugar Maple); To Honor Speaker John W. McCormack; June 11, 1964</desc>
   </wpt>
   <wpt lat="38.88837" lon="-77.00721">
     <name>Speaker Joseph Cannon Tree</name>
     <sym>Tree</sym>
+    <type>Red Oak</type>
     <desc>Quercus borealis (Red Oak); planted by Speaker Joseph G. Cannon (Ill.); 1913</desc>
   </wpt>
   <wpt lat="38.88909" lon="-77.00664">
     <name>Speaker Joseph Martin Tree</name>
     <sym>Tree</sym>
+    <type>English Elm</type>
     <desc>Ulmus procera (English Elm); To Honor Speaker Joseph W. Martin, Jr.; July 8, 1954</desc>
   </wpt>
   <wpt lat="38.8893" lon="-77.00709">
     <name>Speaker Thomas Foley Tree</name>
     <sym>Tree</sym>
+    <type>Sugar Elm</type>
     <desc>Acer saccharum (Sugar Maple); planted by Mrs. Heather Foley; In Honor of Rep. Thomas S. Foley’s Service as Speaker of the House; December 22, 1994</desc>
   </wpt>
   <wpt lat="38.88831" lon="-77.00713">
     <name>Speaker Tip O'Neill Tree</name>
     <sym>Tree</sym>
+    <type>Pin Oak</type>
     <desc>Quercus palustris (Pin Oak); To Honor Speaker Thomas Philip “Tip” O’Neill, Jr.; sponsored by Democratic Leader Nancy Pelosi ; November 14, 2012</desc>
   </wpt>
   <wpt lat="38.8919" lon="-77.00886">
     <name>State of Connecticut Tree</name>
     <sym>Tree</sym>
+    <type>Charter Oak</type>
     <desc>Quercus alba white oak (The Charter Oak); To Commemorate the State of Connecticut; sponsored by Rep. Gary A. Franks; Dedicated November 17, 1993; Replanted November 2007</desc>
   </wpt>
   <wpt lat="38.89161" lon="-77.00756">
     <name>State of Georgia Tree</name>
     <sym>Tree</sym>
+    <type>Flowering Dogwood</type>
     <desc>Cornus florida (Flowering Dogwood); planted by Senator Sam Nunn For State of Georgia; March 11, 1983</desc>
   </wpt>
   <wpt lat="38.8893" lon="-77.00694">
     <name>State of Indiana Tree</name>
     <sym>Tree</sym>
+    <type>Yellow Poplar</type>
     <desc>Liriodendron tulipifera (Yellow poplar); planted by Congressman Charles A. Halleck (Ind.); June 11, 1961</desc>
   </wpt>
   <wpt lat="38.89127" lon="-77.00739">
     <name>State of Kansas Tree</name>
     <sym>Tree</sym>
+    <type>Red Maple</type>
     <desc>Acer rubrum (Red Maple); planted by Senator Nancy L. Kassebaum; To Honor the State of Kansas; November 25, 1996</desc>
   </wpt>
   <wpt lat="38.89113" lon="-77.00783">
     <name>State of Maryland Tree</name>
     <sym>Tree</sym>
+    <type>Wye Oak</type>
     <desc>Quercus alba var. wye (Wye Oak); planted by Senator J. Glenn Beall, Jr.; For State of Maryland; April 5, 1976</desc>
   </wpt>
   <wpt lat="38.89041" lon="-77.00728">
     <name>State of Massachusetts Liberty Elm Memorial Tree</name>
     <sym>Tree</sym>
+    <type>Liberty Elm</type>
     <desc>Ulmus americana ‘libertas’ (Liberty Elm); planted by Sen. Edward M. Kennedy; To Honor the State of Massachusetts; October 22, 1993</desc>
   </wpt>
   <wpt lat="38.8908" lon="-77.00675">
@@ -412,21 +447,25 @@
   <wpt lat="38.88821" lon="-77.0118">
     <name>Susie Skelton Tree</name>
     <sym>Tree</sym>
+    <type>Norway Maple</type>
     <desc>Acer platanoides ‘emerald queen’ (Norway Maple var. Emerald Queen); In Memory of Susie Skelton Wife of Rep. Ike Skelton of Missouri; Planted by House Leader Nancy Pelosi; October 20, 2005</desc>
   </wpt>
   <wpt lat="38.88858" lon="-77.00646">
     <name>Toomer's Corner Oak Tree</name>
     <sym>Tree</sym>
+    <type>Toomer;s Corner Oak Scion</type>
     <desc>Quercus Virginiana (Toomer’s Corner Oak Scion); To Commemorate Auburn University’s Toomer’s Corner Oak; sponsored by Rep. Dennis Ross; May 13, 2011</desc>
   </wpt>
   <wpt lat="38.88888" lon="-77.00789">
     <name>U.S. Capitol Police End of Watch Tree</name>
     <sym>Tree</sym>
+    <type>Valley Forge American Elm</type>
     <desc>Ulmus americana 'Valley Forge' (Valley Forge American Elm); To Honor the Service and Sacrifice of Officer Jacob J. Chestnut and Detective John M. Gibson of the U.S. Capitol Police -End of Watch- July 24, 1998; Sponsored by Majority Leader Harry Reid; July 24, 2008</desc>
   </wpt>
   <wpt lat="38.88792" lon="-77.00718">
     <name>Vietnam Veterans of Minnesota Tree</name>
     <sym>Tree</sym>
+    <type>WHite Oak</type>
     <desc>Quercus alba (White Oak); Honoring the Vietnam Veterans of Minnesota; planted by Representative Arlen Erdahl; May 11, 1982</desc>
   </wpt>
 </gpx>
