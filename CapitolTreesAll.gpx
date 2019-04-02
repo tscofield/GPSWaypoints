@@ -16,176 +16,211 @@
   <wpt lat="38.891634" lon="-77.007690">
     <name>"Senator" Tree of Florida</name>
     <sym>Tree</sym>
+    <type>Bald Cypress</type>
     <desc>Taxodium Distichum (Bald Cypress) planted by Senator Lawton Chiles September 13, 1988</desc>
   </wpt>
   <wpt lat="38.887853" lon="-77.01093">
     <name>100th Anniversary of Ireland's 1916 Easter Rising Tree</name>
     <sym>Tree</sym>
+    <type>Irish Oak</type>
     <desc>Quercus petraea (Irish Oak – Dair Éireannach); Sponsored by The 1916 Easter Rising Centennial Caucus To Honor the 100th Anniversary of Ireland's 1916 Easter Rising; Planted on May 18, 2016</desc>
   </wpt>
   <wpt lat="38.888323" lon="-77.00661">
     <name>200th Anniversary of Congress in Washington Tree</name>
     <sym>Tree</sym>
+    <type>Marmo Maple</type>
     <desc>Acer x freemanii ‘marmo’ (Marmo Maple); sponsored by Rep. J. Dennis Hastert To Commemorate the 200th Anniversary of the 1st Meeting of Congress in Washington; November 15, 2000</desc>
   </wpt>
   <wpt lat="38.888947" lon="-77.01043">
     <name>Anne Frank Memorial Tree</name>
     <sym>Tree</sym>
+    <type>Horse Chestnut</type>
     <desc>Aesculus hippocastanum (Horse Chestnut); sponsored by Rep. Debbie Wasserman Schultz; TO HONOR ANNE FRANK NO ONE NEED WAIT; START RIGHT NOW TO IMPROVE THE WORLD; April 30, 2014</desc>
   </wpt>
   <wpt lat="38.890998" lon="-77.00779">
     <name>Arbor Lodge Association of Nebraska City Tree</name>
     <sym>Tree</sym>
+    <type>Maidenhair tree</type>
     <desc>Ginko biloba (Maidenhair Tree); planted byArbor Lodge Association of Nebraska City, Nebr.; sponsored by Senator Carl E. Curtis; April 16, 1967</desc>
   </wpt>
   <wpt lat="38.888591" lon="-77.01049">
     <name>Asian American Achievements Tree</name>
     <sym>Tree</sym>
+    <type>Sugar Maple</type>
     <desc>Acer saccharum (Sugar Maple); sponsored by Rep. Frank R. Wolf; To Honor Contributions and Achievementsof Asian Americans to American Business, Culture and Society; May 25, 2010</desc>
   </wpt>
   <wpt lat="38.891496" lon="-77.00989">
     <name>Birth of Sequoyah 200th Anniversary Commemorative Tree</name>
     <sym>Tree</sym>
+    <type>Giant Sequoia</type>
     <desc>Sequoia gigantea (Giant Sequoia); planted by Cherokee Indian Nation (Ga.) Commemorating the 200th Anniversary of the Birth of Sequoyah; May 25, 1966</desc>
   </wpt>
   <wpt lat="38.889154" lon="-77.00674">
     <name>Blair Centennial Tree</name>
     <sym>Tree</sym>
+    <type>Blair Maple</type>
     <desc>Acer saccharinum blairi (Blair Maple); In Commemoration of the Centennial of Blair, Nebraska; sponsored by Representative Glenn Cunningham; May 1, 1969</desc>
   </wpt>
   <wpt lat="38.888558" lon="-77.01114">
     <name>Camp Fire Girls Tree</name>
     <sym>Tree</sym>
+    <type>Saucer Magnolia</type>
     <desc>Magnolia x soulangiana (Saucer magnolia); sponsored by The Potomac Area Council of Camp Fire Girls; In Honor of Founder’s Day; March 17, 1965</desc>
   </wpt>
   <wpt lat="38.891491" lon="-77.01169">
     <name>Capitol Police Tree</name>
     <sym>Tree</sym>
+    <type>Valley Forge American Elm</type>
     <desc>Ulmus americana ‘valley forge’ (Valley Forge American Elm); To Commemorate the Service of the United States Capitol Police; Sponsored by Terrance W. Gainer, Senate Sergeant at Arms; September 24, 2008</desc>
   </wpt>
   <wpt lat="38.887858" lon="-77.00911">
     <name>Chaplain James Ford Tree</name>
     <sym>Tree</sym>
+    <type>Greenspire Linden</type>
     <desc>Tilia cordata ‘greenspire’ (Greenspire Linden); In recognition of JAMES DAVID FORD; Chaplain Emeritus U.S. House of Representatives 1979 - 2000; Sponsored by Speaker J. Dennis Hastert; planted on August 10, 2001</desc>
   </wpt>
   <wpt lat="38.890996" lon="-77.00768">
     <name>Charter Oak Tree</name>
     <sym>Tree</sym>
+    <type>Oak<type>
     <desc>Quercus alba white oak (The Charter Oak); On Behalf of the People of Connecticut; sponsored by Sen. Christopher Dodd; Planted on September 12, 2007</desc>
   </wpt>
   <wpt lat="38.890718" lon="-77.0079">
     <name>Commonwealth of Massachusetts Tree</name>
     <sym>Tree</sym>
+    <type>American Elm</type>
     <desc>Ulmus americana (American Elm); To Honor the People of the Commonwealth of Massachusetts; Sponsored by Senators Edward Kennedy and John Kerry and Representatives Michael Capuano, William Delahunt, Barney Frank, Stephen Lynch, Edward Markey, James McGovern, Richard Neal, John Olver, John Tierney, and Niki Tsongas; Planted on April 30, 2008</desc>
   </wpt>
   <wpt lat="38.891231" lon="-77.01149">
     <name>District of Columbia Tree</name>
     <sym>Tree</sym>
+    <type>Tulip Poplar</type>
     <desc>LIRIODENDRON TULIPIFERA (TULIP POPLAR); TO HONOR THE DISTRICT OF COLUMBIA AND ITS RESIDENTS; Sponsored by Rep. Eleanor Holmes Norton; May 21, 2018</desc>
   </wpt>
   <wpt lat="38.891935" lon="-77.01022">
     <name>Emmett Till Memorial Tree</name>
     <sym>Tree</sym>
+    <type>American Sycamore</type>
     <desc>Platanus occidentalis (American Sycamore); sponsored by Maine Senator Susan M. Collins; To Honor Emmett Louis Till, a Young African-American Man Whose Brutal Killing in 1955 Raised Public Awareness That Led to Civil Rights Reforms  November 17, 2014</desc>
   </wpt>
   <wpt lat="38.89181" lon="-77.01032">
     <name>Forest Industry of Indiana Tree</name>
     <sym>Tree</sym>
+    <type>Black Walnut</type>
     <desc>Juglans nigra (Black Walnut); planted by Senator Richard G. Lugar to honor the Forest Industry of Indiana; April 29, 2005</desc>
   </wpt>
   <wpt lat="38.891764" lon="-77.01025">
     <name>Friendship Between U.S.A. and France Tree</name>
     <sym>Tree</sym>
+    <type>Columbia London Plane Tree</type>
     <desc>Plantus x acerifolia ‘columbia’ (Columbia London Plane Tree); To Commemorate the Long-standing Friendship Between the United States of America and France; Sponsored by Sen. Mary Landrieu; April 4, 2007</desc>
   </wpt>
   <wpt lat="38.891766" lon="-77.00798">
     <name>Fulbright 70th Anniversary Tree</name>
     <sym>Tree</sym>
+    <type>American Elm</type>
     <desc>Ulmuse americana (American Elm); Sponsored by Rep. French Hill; To Honor the 70 Year Anniversary of the Fulbright Program; Planted on April 21, 2016</desc>
   </wpt>
   <wpt lat="38.887924" lon="-77.00718">
     <name>George H.W. Bush Tree</name>
     <sym>Tree</sym>
+    <type>Scotch Elm</type>
     <desc>ULMUS GLABRA (Scotch Elm); Honoring the Service of George H.W. Bush, Sponsored by Representative Lamar Smith (TX-21), September 26, 2018</desc>
   </wpt>
   <wpt lat="38.89085" lon="-77.00779">
     <name>Greater North Dakota Association Memorial Tree</name>
     <sym>Tree</sym>
+    <type>American Elm</type>
     <desc>Ulmus americana (American Elm); To Commemorate the Greater North Dakota Association; November 16, 1951</desc>
   </wpt>
   <wpt lat="38.888039" lon="-77.00715">
     <name>Greening of the Capitol Initiative Tree</name>
     <sym>Tree</sym>
+    <type >Valley Forge American Elm</type>
     <desc>Ulmus americana “Valley Forge" (Valley Forge American Elm); To Commemorate the Greening of the Capitol Initiative; sponsored by Speaker Nancy Pelosi; April 22, 2008</desc>
   </wpt>
   <wpt lat="38.890744" lon="-77.00634">
     <name>Idaho Federation of Women's Clubs Memorial Tree</name>
     <sym>Tree</sym>
+    <type>White Pine</type>
     <desc>Pinus strobus (White Pine); planted by Senator James A. McClure Idaho Federation of Women’s Clubs June 10, 1975</desc>
   </wpt>
   <wpt lat="38.888038" lon="-77.00622">
     <name>J. Sterling Morton and George Washington Tree</name>
     <sym>Tree</sym>
+    <type>Eastern Black Walnut</type>
     <desc>Juglans Nigra (Eastern Black Walnut); To Honor 100th Anniversary of J. Sterling Morton, Founder of Arbor Day; And the Bicentennial of George Washington; April 22, 1932</desc>
   </wpt>
   <wpt lat="38.888042" lon="-77.00777">
     <name>Japanese Relations Tree</name>
     <sym>Tree</sym>
+    <type>Flowering Cherry</type>
     <desc>Prunus ‘first lady’ (‘First Lady’ Flowering Cherry); To Commemorate the 150th Anniversary of U.S. - Japanese Relations (The Treaty of Kanegawa); Sponsored by Speaker Dennis Hastert; Planted on March 31, 2004</desc>
   </wpt>
   <wpt lat="38.890525" lon="-77.00618">
     <name>Liberty Tree</name>
     <sym>Tree</sym>
+    <type>Liberty Tree Sapling</type>
     <desc>Liriodendron tulipfera (Liberty Tree Seedling); This tree grew from a seed of the famous Liberty Tree in Annapolis, Maryland; planted by Senator Charles McC. Mathias; March 27, 1978</desc>
   </wpt>
   <wpt lat="38.89095" lon="-77.00784">
     <name>Mrs. Lyndon B. Johnson Memorial Tree</name>
     <sym>Tree</sym>
+    <type>Chinese Kousa Dogwood</type>
     <desc>Cornus kousa (Chinese Kousa Dogwood); planted by Mrs. Lyndon B. Johnson; sponsored by The Ladies of the Senate; April 30, 1968</desc>
   </wpt>
   <wpt lat="38.891195" lon="-77.00678">
     <name>Mrs. Richard Nixon Tree</name>
     <sym>Tree</sym>
+    <type>SothernMagnolia</type>
     <desc>Magnolia grandiflora (Southern Magnolia); The Senate Ladies Gift to Mrs. Richard M. Nixon; April 10, 1973</desc>
   </wpt>
   <wpt lat="38.891558" lon="-77.00707">
     <name>National Arbor Day Tree</name>
     <sym>Tree</sym>
+    <type>Dawn Redwood</type>
     <desc>Metasequoia glyptostroboides (Dawn Redwood); National Arbor Day; sponsored by Senator Mark O. Hatfield; April 26, 1985</desc>
   </wpt>
   <wpt lat="38.887872" lon="-77.01011">
     <name>Wangari Maathai Tree</name>
     <sym>Tree</sym>
+    <type>Golden Rain</type>
     <desc>Koelreuteria paniculata (Golden Rain Tree); To Honor Nobel Peace Laureate Wangari Maathai of Kenya; sponsored by Rep. Barbara Lee; planted on May 11, 2005</desc>
   </wpt>
   <wpt lat="38.891546" lon="-77.00749">
     <name>Page School Class of 1957 25th Anniversary Tree</name>
     <sym>Tree</sym>
+    <type>American Holly</type>
     <desc>Ilex opaca (American Holly); planted for 25th Anniversary of the Page School Class of 1957; June 12, 1982</desc>
   </wpt>
   <wpt lat="38.891561" lon="-77.00806">
     <name>Page School Class of 1982 Tree</name>
     <sym>Tree</sym>
+    <type>American Holly</type>
     <desc>Ilex Opaca (American Holly); planted by 1982 Graduation Class Page School; June 14, 1982</desc>
   </wpt>
   <wpt lat="38.891753" lon="-77.00997">
     <name>Page School Class of 1983 Tree</name>
     <sym>Tree</sym>
+    <type>Flowering Dogwood</type>
     <desc>Cornus florida (Flowering Dogwood); planted by 1983 Graduating Class of Capitol Page School; June 20, 1983</desc>
   </wpt>
   <wpt lat="38.890804" lon="-77.00752">
     <name>Paul Pincus Memorial Tree</name>
     <sym>Tree</sym>
+    <type>Pin Oak</type>
     <desc>Quercus palustris (Pin Oak); sponsored by Sen. Paul Sarbanes; In Honor of Paul Pincus’s Retirement, Landscape Architect; September 15, 1995</desc>
   </wpt>
   <wpt lat="38.890178" lon="-77.01219">
     <name>Pecan tree near Peace Circle.</name>
     <sym>Tree</sym>
+    <type>Pecan</type>
     <desc>The pecan tree near Peace Monument is likely our tallest tree on the Capitol Grounds at about 115' in height and is well suited to its growing conditions. If you look up into the branches on the west side you may see scars from a lightning strike that happened in 2011. Fortunately, damage was minimal and the tree has gradually recovered.</desc>
   </wpt>
   <wpt lat="38.891854" lon="-77.01187">
     <name>People's Choice for a National Tree</name>
     <sym>Tree</sym>
+    <type>Northern Red Oak</type>
     <desc>Quercus borealis (Northern Red oak); Sponsored by Rep. Ralph Regula; To Commemorate the Peoples Choice for a National Tree (Arbor Day 2001); April 27, 2001</desc>
   </wpt>
   <wpt lat="38.88791" lon="-77.01056">
