@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Geo::Gpx" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <desc>Combination of:
-post 832.wpt (post 832)
-post 833.wpt (post 833)
-post 834.wpt (post 834)
-post 835.wpt (post 835)
-post 838.wpt (post 838)
-post 839.wpt (post 839)
-post 844.wpt (post 844)
-post 849.wpt (post 849)
-post 853.wpt (post 853)
-post 854.wpt (post 854)
-post 855.wpt (post 855)
-post 859.wpt (post 859)</desc>
+    <desc></desc>
     <time>2015-12-05T15:08:28+00:00</time>
     <bounds maxlat="38.5934828" maxlon="-77.371675" minlat="38.5813519" minlon="-77.3802048"/>
   </metadata>
-  <trk>
-    <name>Track</name>
-  </trk>
   <wpt lat="38.5835438" lon="-77.3725754">
     <ele>53</ele>
     <time>2015-12-05T15:23:31+00:00</time>
