@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Geo::Gpx" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <desc>Combination of:
+post 832.wpt (post 832)
+post 833.wpt (post 833)
+post 834.wpt (post 834)
+post 835.wpt (post 835)
+post 838.wpt (post 838)
+post 839.wpt (post 839)
+post 844.wpt (post 844)
+post 849.wpt (post 849)
+post 853.wpt (post 853)
+post 854.wpt (post 854)
+post 855.wpt (post 855)
+post 859.wpt (post 859)</desc>
+    <time>2015-12-05T15:08:28+00:00</time>
+    <bounds maxlat="38.5934828" maxlon="-77.371675" minlat="38.5813519" minlon="-77.3802048"/>
+  </metadata>
+  <trk>
+    <name>Track</name>
+  </trk>
+  <wpt lat="38.5835438" lon="-77.3725754">
+    <ele>53</ele>
+    <time>2015-12-05T15:23:31+00:00</time>
+    <name>post 832</name>
+  </wpt>
+  <wpt lat="38.5843179" lon="-77.3745136">
+    <ele>56</ele>
+    <time>2015-12-05T15:08:28+00:00</time>
+    <name>post 833</name>
+  </wpt>
+  <wpt lat="38.5878385" lon="-77.3774154">
+    <ele>61</ele>
+    <time>2015-12-05T20:14:44+00:00</time>
+    <name>post 834</name>
+  </wpt>
+  <wpt lat="38.5834131" lon="-77.373708">
+    <ele>51</ele>
+    <time>2015-12-05T21:34:59+00:00</time>
+    <name>post 835</name>
+  </wpt>
+  <wpt lat="38.5815852" lon="-77.3771352">
+    <ele>41</ele>
+    <time>2015-12-05T19:07:14+00:00</time>
+    <name>post 838</name>
+  </wpt>
+  <wpt lat="38.5813519" lon="-77.3742967">
+    <ele>61</ele>
+    <time>2015-12-05T15:45:59+00:00</time>
+    <name>post 839</name>
+  </wpt>
+  <wpt lat="38.5822699" lon="-77.371675">
+    <ele>49</ele>
+    <time>2015-12-05T15:30:12+00:00</time>
+    <name>post 844</name>
+  </wpt>
+  <wpt lat="38.586719" lon="-77.3779198">
+    <ele>51</ele>
+    <time>2015-12-05T20:18:46+00:00</time>
+    <name>post 849</name>
+  </wpt>
+  <wpt lat="38.5851125" lon="-77.3802048">
+    <ele>58</ele>
+    <time>2015-12-05T19:47:34+00:00</time>
+    <name>post 853</name>
+  </wpt>
+  <wpt lat="38.5826891" lon="-77.3779817">
+    <ele>57</ele>
+    <time>2015-12-05T19:31:15+00:00</time>
+    <name>post 854</name>
+  </wpt>
+  <wpt lat="38.5863378" lon="-77.3731935">
+    <ele>48</ele>
+    <time>2015-12-05T21:23:33+00:00</time>
+    <name>post 855</name>
+  </wpt>
+  <wpt lat="38.5934828" lon="-77.3726375">
+    <ele>60</ele>
+    <time>2015-12-05T20:54:44+00:00</time>
+    <name>post 859</name>
+  </wpt>
+</gpx>
